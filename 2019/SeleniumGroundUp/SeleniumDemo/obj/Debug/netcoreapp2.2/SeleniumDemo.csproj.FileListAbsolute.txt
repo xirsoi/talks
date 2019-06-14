@@ -1,0 +1,11 @@
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\bin\Debug\netcoreapp2.2\SeleniumDemo.deps.json
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\bin\Debug\netcoreapp2.2\SeleniumDemo.dll
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\obj\Debug\netcoreapp2.2\SeleniumDemo.csprojAssemblyReference.cache
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\obj\Debug\netcoreapp2.2\SeleniumDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\obj\Debug\netcoreapp2.2\SeleniumDemo.AssemblyInfoInputs.cache
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\obj\Debug\netcoreapp2.2\SeleniumDemo.AssemblyInfo.cs
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\bin\Debug\netcoreapp2.2\SeleniumDemo.runtimeconfig.json
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\bin\Debug\netcoreapp2.2\SeleniumDemo.runtimeconfig.dev.json
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\bin\Debug\netcoreapp2.2\SeleniumDemo.pdb
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\obj\Debug\netcoreapp2.2\SeleniumDemo.dll
+C:\Users\ASCheval.CORP\Documents\talks\2019\SeleniumGroundUp\SeleniumDemo\obj\Debug\netcoreapp2.2\SeleniumDemo.pdb
